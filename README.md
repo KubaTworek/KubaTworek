@@ -7,7 +7,7 @@
 
 Project                    |  Describe
 :-------------------------:|:-------------------------:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Password-Manager-MVC-REST)](https://github.com/KubaTworek/Password-Manager-MVC-REST)  |  WebApp based on CRUD methods. REST API and user authentication are also implemented. App gives us oppurtunity to manage our passwords and keep them safe in database. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Password-Manager-MVC-REST)](https://github.com/KubaTworek/Password-Manager-MVC-REST)  |  App gives us opportunity to manage our passwords and keep them safe in database. Administrator has permissions to manage every password, user and category. There is also password encoding system.
 
 
 
