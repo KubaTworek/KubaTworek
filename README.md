@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am student of 2nd year on PJAIT. Actually, I am working as an IT Recruiter. I am absolutely fascinated about IT and coding. I want to get my first job as a developer to improve my skills and getting knowledge under the supervision of more experienced developers. Despite, I am learning about SOLID principals, OOP programming and design patterns, but I’ve got lack in commercial knowledge about writing high quality code and using best technical solutions.  
+I am student of 2nd year on PJAIT. Actually, I am working as an IT Recruiter. I am absolutely fascinated about IT and coding. I want to get my first job as a developer to improve my skills and getting knowledge under the supervision of more experienced developers. Despite, I am learning about SOLID principals, OOP programming and design patterns, I’ve got lack in commercial knowledge about writing high quality code and using best technical solutions.  
 
 
 ## My Projects
