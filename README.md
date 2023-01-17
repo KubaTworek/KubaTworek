@@ -8,7 +8,7 @@
 
 - 📄 Check my experiences [**CV**](https://github.com/KubaTworek/KubaTworek/files/10191239/cv.pdf)
 
-- ⚡ Fun fact **I am math tutor for students especially 8th graders andalso a football referee.**
+- ⚡ Fun fact **I am math tutor for students especially 8th students and also a football referee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +30,5 @@ Project                    |  Describe
 Project                    |  Describe
 :-------------------------:|:-------------------------:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Recruitment-Project-Elevators)](https://github.com/KubaTworek/Recruitment-Project-Elevators)  |  The application gives us the ability to manage 16 elevators on 10 floors. Algorithm has been implemented to optimize the entire system.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Rest-API-Calendar)](https://github.com/KubaTworek/Rest-API-Calendar)  |  App gives us opportunity to manage calendar.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Recruitment-Project-Elevators)](https://github.com/KubaTworek/REST-API-Articles)  |  App gives us opportunity to manage articles.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Rest-API-Calendar)](https://github.com/KubaTworek/Rest-API-Calendar)  |  The application allows us to create meetings for two independent calendars.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=REST-API-Articles)](https://github.com/KubaTworek/REST-API-Articles)  |  The application allows us to manage a database of articles.
