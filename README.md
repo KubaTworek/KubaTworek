@@ -1,14 +1,14 @@
 <h1 align="center">Hello World 👋, I'm Kuba</h1>
-<h3 align="center">I am Junior Software Engineer, also 2nd year student of Computer Science at the Polish-Japanese Academy of Information Technology.</h3>
-<p align="justify">I would like to develop myself as a Software Engineer focused on Backend technologies and Java. Additionally, I would like to expand my skills in many areas such as Quality Assurance, DevOps and Frontend technologies.</p>
+<h3 align="center">I am Dev Engineer, also 2nd year student of Computer Science at the Polish-Japanese Academy of Information Technology.</h3>
+<p align="justify">I would like to develop myself as a Software Engineer focused on Backend technologies and Java. Additionally, I would like to improve my skills in Backend and Frontend development. I am eager to learn new languages and tools, that will allow me to become skilled Fullstack Developer. To quote a classic, he's not a fullstack developer, he's entire IT department :D</p>
 
-- 🔭 I’m currently working in [**Glovo**](https://glovoapp.com/)
+- 🔭 I’m currently working in [**ING Bank Śląski**](https://www.ing.pl/)
 
 - 📫 How to reach me **kubatvorek@gmail.com**
 
 - 📄 Check my experiences [**CV**](https://github.com/KubaTworek/KubaTworek/files/10191239/cv.pdf)
 
-- ⚡ Fun fact **I am math tutor for students especially 8th students and also a football referee.**
+- ⚡ Fun fact **I am math tutor for especially 8th students and also a football referee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,7 @@
 Project                    |  Describe
 :-------------------------:|:-------------------------:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Restaurant-Management-System)](https://github.com/KubaTworek/Restaurant-Management-System)  |  App gives us opportunity to manage our restaurant. It is kind of CRM, where we have possibility to manage our menu, orders and staff.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=REST-API-Articles)](https://github.com/KubaTworek/REST-API-Articles)  |  Fullstack application based on microservice architecture, gives us opportunity to manage our articles and their authors and magazines.
 
 ## Recruitment Projects
 
@@ -31,5 +32,4 @@ Project                    |  Describe
 :-------------------------:|:-------------------------:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Recruitment-Project-Elevators)](https://github.com/KubaTworek/Recruitment-Project-Elevators)  |  The application gives us the ability to manage 16 elevators on 10 floors. Algorithm has been implemented to optimize the entire system.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Rest-API-Calendar)](https://github.com/KubaTworek/Rest-API-Calendar)  |  The application allows us to create meetings for two independent calendars.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=REST-API-Articles)](https://github.com/KubaTworek/REST-API-Articles)  |  The application allows us to manage a database of articles.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KubaTworek&repo=Champions-League-Matches)](https://github.com/KubaTworek/Champions-League-Matches)  |  The application allows us to retrieving Champions League matches from JSON file.
