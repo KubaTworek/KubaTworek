@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **kubatvorek@gmail.com**
 
-- 📄 Check out my [**CV**](https://github.com/KubaTworek/KubaTworek/files/13389315/cv.pdf)
+- 📄 Check out my [**CV**](https://github.com/KubaTworek/KubaTworek/files/13389329/cv.pdf)
 
 - ⚡ Fun fact: I was a math tutor for 8th-grade students and a football referee.
 
